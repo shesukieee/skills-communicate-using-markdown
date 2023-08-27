@@ -1,5 +1,11 @@
 # hello, this is h1 header
-## this is what Yaktocat looks like
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Add a code example
 
-add Yaktocat iamge
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
